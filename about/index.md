@@ -6,7 +6,7 @@ date: 2020-01-01
 comments: false
 ---
     
-Looking for a summer intern for data/finance analyst
+Looking for a summer internship as a data/finance analyst
 
 ## About Me
 
@@ -27,7 +27,7 @@ Have a nice day!
 
 ## Resume
 If you are hiring or interested in my experience, please kindly check my resume below.
-- [Emma's_Resume_PDF](https://github.com/EmmaCheung0/EmmaCheung0.github.io/tree/master/assets/Resume_Lanzhen.pdf)
+- [Emma's_Resume_PDF](https://github.com/EmmaCheung0/EmmaCheung0.github.io/raw/master/Resume_Lanzhen.pdf)
 
 
 ## Contact
