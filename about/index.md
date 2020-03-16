@@ -1,36 +1,36 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2020-01-01
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+## About Me
+* 
+Hi, I am Lanzhen Zhang. I can go by Emma.
+Currently, I am a master student in __applied analytics__ at __Columbia University__. Our program is a composite of data science and business management. I received my undergraduate degree from __Chinese University of Hong Kong__ where I majored in __finance__ and double majored in __statistics__.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I have been extremely lucky to work in many different realms in financial industry, including as 
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+I like data. Manipulating it, modeling it, making it (simulation), visualizing it and yes, even cleaning it. I do these things with some combination of __R__, __Python__, and __Javascript__ (d3.js in particular). Most recently I have been fascinated with conveying complex statistical topics and methods using [intuitive](http://nickstrayer.me/binomialFun/confidenceIntervals) and [interactive](http://nickstrayer.me/likelihood) [graphics.](http://nickstrayer.me/binomialFun/)
 
-## Getting Started
+Besides, I really like outdoor sports and ball games. 
+
+Have a nice day!
+
+
+## Resume
+If you are hiring and 
+- [PDF](   )
+
+
+## Contact
+
+
+## Thanks
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
