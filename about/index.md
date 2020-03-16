@@ -20,7 +20,7 @@ I know it is more common to follow an unique direction and build my career. But 
 
 Outside of the work and study, I love ball games and outdoor sports. I like volleyball, basketball, tennis, badminton, hiking, snowbording, swimming, and wandering around parks or musuems. During my college days, I went hiking and played volleyball every week. And when staying at home like in the quarantine period for coronavirus, I prefer reading, movies and cooking. Lol my hobbies vary...
 
-My goal establish this blog is created a place to store my knowledge, to share my experience, to inspire both you and me to explore and to talk anything. If you are interested in it, please feel free to contact me.
+My goal of establishing this blog is to create a place to store my knowledge, to share my experience, to inspire both you and me to explore and to talk anything. If you are interested in it, please feel free to contact me.
 
 Have a nice day!
 
