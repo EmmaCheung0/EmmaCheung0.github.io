@@ -27,13 +27,13 @@ Have a nice day!
 
 ## Resume
 If you are hiring or interested in my experience, please kindly check my resume below.
-- [PDF](https://github.com/EmmaCheung0/EmmaCheung0.github.io/tree/master/assets/Resume_Lanzhen Zhang .pdf)
+- [Emma's_Resume_PDF](https://github.com/EmmaCheung0/EmmaCheung0.github.io/tree/master/assets/Resume_Lanzhen.pdf)
 
 
 ## Contact
 ✉️ zl2894@columbia.edu
 
-☎️ 347-446-3031
+📱 347-446-3031
 
 🏠 NY, New York
 
